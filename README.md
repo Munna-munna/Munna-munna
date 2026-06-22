@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Munna SK</h1>
 
-<!--
-**Munna-munna/Munna-munna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">☕ Java Full Stack Developer | Spring Boot Backend Developer 🚀</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;React+JS+Enthusiast;Always+Learning+New+Things+🚀"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Munna-munna&label=Profile+Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+# 💫 About Me
+
+* 🔭 Working on Java Full Stack Projects
+* 🌱 Learning Spring Boot & React
+* 💻 Passionate about Backend Development
+* ⚡ Love building scalable applications
+* 🚀 Future Software Engineer
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/munvar-sk">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Munna-munna">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,javascript,react,git,github,vscode"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Munna-munna&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munna-munna&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Munna-munna&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Munna-munna&theme=onedark&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# ⚡ Quote
+
+<h3 align="center">
+"First, solve the problem. Then, write the code."
+</h3>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
